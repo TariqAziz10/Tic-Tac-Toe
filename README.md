@@ -5,8 +5,8 @@
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
-- **HTML5**: The standard markup language for creating web pages.
-- **CSS3**: Used for styling the application.
+- **HTML**: The standard markup language for creating web pages.
+- **CSS**: Used for styling the application.
 - **JavaScript**: The programming language that powers the interactivity of the game.
 - **Vite**: A fast build tool and development server for modern web projects.
 
